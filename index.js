@@ -112,7 +112,7 @@ const questions = () => {
 };
 
 // ===========function to write README file============
-const writeToFile = (data) => {
+writeToFile = (data) => {
   fs.writeFile("README.md", (data), (err) => {
     if (err) {
       console.log(err);
@@ -123,7 +123,7 @@ const writeToFile = (data) => {
 };
 
 // ===========function to initialize app================
-const init = () => {
+init = () => {
   questions()
     .then((answers) => {
       return generateMarkdown(answers);
