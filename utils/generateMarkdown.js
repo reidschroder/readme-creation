@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 renderLicenseBadge = license => {
    if (license === "MIT") {
-    return 'https://img.shields.io/badge/License-MIT-blue.svg';
+    return `[![License](https://img.shields.io/badge/License-MIT-blue.svg)]`;
   }
 
 }
