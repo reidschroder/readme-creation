@@ -1,29 +1,29 @@
-# readme creator
+# readme generator
 
+  ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Descripton
-    creates a readme
+    generate a read,e
 
-    ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Table of Contents
-  [Installation](#installation)
-  [Usage](#usage)
-  [License](#license)
-  [Contributions](#contributors)
-  [Questions](#questions)
+  -[Installation](#installation)
+  -[Usage](#usage)
+  -[License](#license)
+  -[Contributions](#contributors)
+  -[Questions](#questions)
 
   ## Installation
     node
 
   ## Usage
-    use it to create a pro readme for your project
+    create a readme for your project
 
   ## License
     MIT
 
   ## Contributions
-    reidschroder
+    reid schroder
 
   ## Tests
     follow command line
