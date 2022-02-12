@@ -1,10 +1,10 @@
-# readme generator
+# READEME Generator
 
     ## License
-    https://img.shields.io/badge/license-MITlicense-blue.svg
+    https://img.shields.io/badge/License-MIT-blue.svg
 
   ## Descripton
-    generate a pro readme
+    generate a readme document from command line prompts
 
   ## Table of Contents
   [Installation](#installation)
@@ -14,19 +14,19 @@
   [Questions](#questions)
 
   ## Installation
-    install node
+    use the command line to answer prompts that create your README
 
   ## Usage
-    use the command line
+    create a readme
 
   ## License
     MIT
 
   ## Contributions
-    reid schroder
+    Reid Schroder
 
   ## Tests
-    use the command line to run prompts
+    use node to run the prompts
 
   ## Questions
   reidschroder
