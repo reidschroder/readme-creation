@@ -4,7 +4,7 @@ renderLicenseBadge = license => {
   if (license === "None") {
     return "";
   } else if (license === "MIT") {
-    return 'https://img.shields.io/badge/license-MIT-blue.svg';
+    return 'https://img.shields.io/badge/license-MITlicense-blue.svg';
   }
 
 }

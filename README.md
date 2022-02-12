@@ -1,10 +1,10 @@
-# reademe generator
+# readme generator
 
     ## License
-    https://img.shields.io/badge/license-MIT-blue.svg
+    https://img.shields.io/badge/license-MITlicense-blue.svg
 
   ## Descripton
-    using node to respond to prompts and generate a readme
+    generate a pro readme
 
   ## Table of Contents
   [Installation](#installation)
@@ -14,10 +14,10 @@
   [Questions](#questions)
 
   ## Installation
-    install node.js
+    install node
 
   ## Usage
-    see above
+    use the command line
 
   ## License
     MIT
@@ -26,7 +26,7 @@
     reid schroder
 
   ## Tests
-    run node index in your command line to initialize the questions
+    use the command line to run prompts
 
   ## Questions
   reidschroder
