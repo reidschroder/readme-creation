@@ -3,30 +3,30 @@
   ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Descripton
-    generate a read,e
+    create a professional readme unsing the command line
 
 
   ## Table of Contents
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Contributions](#contributors)
-  -[Questions](#questions)
+  *[Installation](#installation)
+  *[Usage](#usage)
+  *[License](#license)
+  *[Contributions](#contributors)
+  *[Questions](#questions)
 
   ## Installation
-    node
+    install node
 
   ## Usage
-    create a readme for your project
+    create a readme with node in the command line for your next project
 
   ## License
     MIT
 
   ## Contributions
-    reid schroder
+    reidschorder
 
   ## Tests
-    follow command line
+    follow the command line
 
   ## Questions
   reidschroder

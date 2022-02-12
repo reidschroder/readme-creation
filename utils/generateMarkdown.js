@@ -26,11 +26,11 @@ generateMarkdown = data =>  {
 
 
   ## Table of Contents
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Contributions](#contributors)
-  -[Questions](#questions)
+  *[Installation](#installation)
+  *[Usage](#usage)
+  *[License](#license)
+  *[Contributions](#contributors)
+  *[Questions](#questions)
 
   ## Installation
     ${data.installation}
