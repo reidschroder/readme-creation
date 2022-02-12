@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 renderLicenseBadge = license => {
    if (license === "MIT") {
-    return `[!badge](https://img.shields.io/badge/License-MIT-blue.svg)`;
+    return 'https://img.shields.io/badge/License-MIT-blue.svg';
   }
 
 }
@@ -19,11 +19,11 @@ function renderLicenseSection(license) {}
 generateMarkdown = data =>  {
   return `# ${data.title}
 
-  
-    ${renderLicenseBadge(data.license)}
 
   ## Descripton
     ${data.description}
+
+    ![badge](${renderLicenseBadge(data.license)})
 
   ## Table of Contents
   [Installation](#installation)
