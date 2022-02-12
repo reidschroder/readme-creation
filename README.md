@@ -1,10 +1,9 @@
-# readme generator
+# readme
 
-    ## License
-    [![License](https://img.shields.io/badge/License-MIT-blue.svg)]
+    [!badge]('https://img.shields.io/badge/License-MIT-blue.svg')
 
   ## Descripton
-    create a reademe
+    generate a readme
 
   ## Table of Contents
   [Installation](#installation)
@@ -14,10 +13,10 @@
   [Questions](#questions)
 
   ## Installation
-    use node
+    node
 
   ## Usage
-    follow the prompts
+    generate a professional readme for your next project by answering some simple questions
 
   ## License
     MIT
@@ -26,7 +25,7 @@
     reidschroder
 
   ## Tests
-    run the command line 
+    follow command line prompts
 
   ## Questions
   reidschroder
