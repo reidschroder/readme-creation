@@ -1,26 +1,34 @@
-# reade
+# reademe generator
+
+    ## License
+    https://img.shields.io/badge/license-MIT-blue.svg
 
   ## Descripton
-    fdsfad
+    using node to respond to prompts and generate a readme
 
   ## Table of Contents
+  [Installation](#installation)
+  [Usage](#usage)
+  [License](#license)
+  [Contributions](#contributors)
+  [Questions](#questions)
 
   ## Installation
-    fasdfas
+    install node.js
 
   ## Usage
-    asdfasdf
+    see above
 
   ## License
     MIT
 
   ## Contributions
-    asdfasdf
+    reid schroder
 
   ## Tests
-    asdfasdf
+    run node index in your command line to initialize the questions
 
   ## Questions
   reidschroder
-  reids
+  reidschroder2@gmail.com
 
