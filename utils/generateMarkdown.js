@@ -87,6 +87,7 @@ generateMarkdown = data =>  {
     
 
   ## Questions
+  If you have any questions, feel free to contact me using the links to my Github and email below.  
   [Github](github.com/${data.github})  
 
 
