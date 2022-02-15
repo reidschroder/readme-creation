@@ -24,16 +24,16 @@ renderLicenseBadge = license => {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === "MIT") {
-    return "https://opensource.org/licenses/MIT";
+    return `[MIT](https://opensource.org/licenses/MIT)`;
   
   } else if (license === "ISC") {
-    return "https://opensource.org/licenses/ISC";
+    return `[ISC](https://opensource.org/licenses/ISC)`;
 
   } else if (license === "APACHE") {
-    return "https://opensource.org/licenses/Apache-2.0";
+    return `[Apache](https://opensource.org/licenses/Apache-2.0)`;
 
   } else if (license === "GNU") {
-    return "https://opensource.org/licenses/gpl-license";
+    return `[GNU](https://opensource.org/licenses/gpl-license)`;
 
   } else if (license === "None") {
     return "";
@@ -83,12 +83,13 @@ generateMarkdown = data =>  {
 
   ## License
     ${renderLicenseSection(data.license)}
-    ${renderLicenseLink(data.license)}
+    
     
 
   ## Questions
-  github.com/${data.github}
+  [Github](github.com/${data.github})
   ${data.email}
+  ${renderLicenseLink(data.license)}
 
 `;
 }
