@@ -27,13 +27,13 @@ function renderLicenseLink(license) {
     return "https://opensource.org/licenses/MIT";
   
   } else if (license === "ISC") {
-    return "https://opensource.org/licenses/ISC"
+    return "https://opensource.org/licenses/ISC";
 
   } else if (license === "APACHE") {
-    return "https://opensource.org/licenses/Apache-2.0"
+    return "https://opensource.org/licenses/Apache-2.0";
 
   } else if (license === "GNU") {
-    return "https://opensource.org/licenses/gpl-license"
+    return "https://opensource.org/licenses/gpl-license";
 
   } else if (license === "None") {
     return "";
@@ -48,7 +48,7 @@ function renderLicenseSection(license) {
   if (license === "None") {
     return "";
   } else {
-    return `This application was built with the ${license} license.`;
+    return `This application was built with the ${license} license. For more information, follow the link below.`;
   }
 }
 
@@ -84,6 +84,7 @@ generateMarkdown = data =>  {
   ## License
     ${renderLicenseSection(data.license)}
     ${renderLicenseLink(data.license)}
+    
 
   ## Questions
   github.com/${data.github}

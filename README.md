@@ -1,9 +1,9 @@
-# Readme Creation
+# redme creation
 
-  ![badge](https://img.shields.io/badge/License-Apache-blue.svg)
+  ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Descripton
-    Create a professional READme for your next application
+    create a professional readme for your next project
 
 
   ## Table of Contents
@@ -14,20 +14,21 @@
   [Questions](#questions)
 
   ## Installation
-    Install node.js
+    use node in the command line
 
   ## Usage
-    This project is used to create a readme for your next project with ease
+    use this to create an efficient readme for your project or application
 
   ## Contributions
-    Reid Schroder
+    reid schroder
 
   ## Tests
-    Follow the command line and create your READme
+    follow the command line prompts to create your project
 
   ## License
-    This application was built with the APACHE license.
-    https://opensource.org/licenses/Apache-2.0
+    This application was built with the MIT license. For more information, follow the link below.
+    https://opensource.org/licenses/MIT
+    
 
   ## Questions
   github.com/reidschroder
