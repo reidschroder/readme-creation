@@ -3,27 +3,27 @@
   ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Descripton
-    Create a readme for your next project or application
+    create a readme by following the command line prompts
 
 
   ## Table of Contents
-  [Installation](#installation)
-  [Usage](#usage)
-  [License](#license)
-  [Contributions](#contributors)
-  [Questions](#questions)
+  [Installation](#installation)  
+  [Usage](#usage)  
+  [License](#license)  
+  [Contributions](#contributors)  
+  [Questions](#questions)  
 
   ## Installation
-    Install Node on your machine
+    install node on your machine
 
   ## Usage
-    use this project to create a professional readme for your next project 
+    use this to easily create a readme file for your next project or application
 
   ## Contributions
     reid schroder
 
   ## Tests
-    run node and follow the command line prompts
+    run node in the terminal then follow the prompts
 
   ## License
     This application was built with the MIT license. For more information, follow the link below.
@@ -31,7 +31,11 @@
     
 
   ## Questions
-  [Github](github.com/reidschroder)
-  reidschroder2@gmail.com
+  [Github](github.com/reidschroder)  
+
+
+  reidschroder2@gmail.com  
+
+
   [MIT](https://opensource.org/licenses/MIT)
 

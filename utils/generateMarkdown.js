@@ -63,11 +63,11 @@ generateMarkdown = data =>  {
 
 
   ## Table of Contents
-  [Installation](#installation)
-  [Usage](#usage)
-  [License](#license)
-  [Contributions](#contributors)
-  [Questions](#questions)
+  [Installation](#installation)  
+  [Usage](#usage)  
+  [License](#license)  
+  [Contributions](#contributors)  
+  [Questions](#questions)  
 
   ## Installation
     ${data.installation}
@@ -87,8 +87,12 @@ generateMarkdown = data =>  {
     
 
   ## Questions
-  [Github](github.com/${data.github})
-  ${data.email}
+  [Github](github.com/${data.github})  
+
+
+  ${data.email}  
+
+
   ${renderLicenseLink(data.license)}
 
 `;
