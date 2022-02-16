@@ -3,7 +3,7 @@
   ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Descripton
-    Create a readme from command line
+    create a readme from your command line
 
 
   ## Table of Contents
@@ -14,16 +14,20 @@
   [Questions](#questions)  
 
   ## Installation
-    install node and run npm init in command line 
+    npm init inquirer in the command line on this files path in the terminal
 
   ## Usage
-    Use this to create your own readme 
+    Use this project to easily create a readme file for your next project
 
   ## Contributions
     Reid Schroder
 
   ## Tests
-    Run node index and follow questions
+  ![img](./images/readme-creation-screenshot.png)
+  [Video Test](https://drive.google.com/file/d/1PpAJYOGy1SvULAccSk_AYoVWeQKtiVXl/view)
+    Run node index in the command line and follow the questions 
+
+    
 
   ## License
     This application was built with the MIT license. For more information, follow the link below.
