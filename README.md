@@ -1,9 +1,9 @@
-# READme Creation
+# README Creation
 
   ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Descripton
-    Create a Professional READme for your project
+    Create a readme from command line
 
 
   ## Table of Contents
@@ -14,16 +14,16 @@
   [Questions](#questions)  
 
   ## Installation
-    download and run node in the command line. Follow the prompts
+    install node and run npm init in command line 
 
   ## Usage
-    Use this to create a READme easily for your next project
+    Use this to create your own readme 
 
   ## Contributions
     Reid Schroder
 
   ## Tests
-    Follow the prompts given in the command line
+    Run node index and follow questions
 
   ## License
     This application was built with the MIT license. For more information, follow the link below.
